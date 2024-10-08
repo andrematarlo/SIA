@@ -8,7 +8,7 @@ body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
     padding: 20px;
-    background-color: #f4f4f4;
+    background-color: pink;
 }
 
 header {
@@ -58,7 +58,11 @@ footer {
     text-align: center;
     margin-top: 40px;
     padding: 20px;
+<<<<<<< HEAD
+    background-color: yellow;
+=======
     background-color: red;
+>>>>>>> ce37d816aa2ae8e657113dfe19dded235c02fdb0
     color: white;
 }
 
